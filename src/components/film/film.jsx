@@ -6,7 +6,7 @@ const Film = () => {
       <section className="movie-card movie-card--full">
         <div className="movie-card__hero">
           <div className="movie-card__bg">
-            <img src="img/bg-the-grand-budapest-hotel.jpg" alt="The Grand Budapest Hotel" />
+            <img src="/img/bg-the-grand-budapest-hotel.jpg" alt="The Grand Budapest Hotel" />
           </div>
           <h1 className="visually-hidden">WTW</h1>
           <header className="page-header movie-card__head">
@@ -19,7 +19,7 @@ const Film = () => {
             </div>
             <div className="user-block">
               <div className="user-block__avatar">
-                <img src="img/avatar.jpg" alt="User avatar" width="63" height="63" />
+                <img src="/img/avatar.jpg" alt="User avatar" width="63" height="63" />
               </div>
             </div>
           </header>
@@ -51,7 +51,7 @@ const Film = () => {
         <div className="movie-card__wrap movie-card__translate-top">
           <div className="movie-card__info">
             <div className="movie-card__poster movie-card__poster--big">
-              <img src="img/the-grand-budapest-hotel-poster.jpg" alt="The Grand Budapest Hotel poster" width="218" height="327" />
+              <img src="/img/the-grand-budapest-hotel-poster.jpg" alt="The Grand Budapest Hotel poster" width="218" height="327" />
             </div>
             <div className="movie-card__desc">
               <nav className="movie-nav movie-card__nav">
@@ -90,7 +90,7 @@ const Film = () => {
           <div className="catalog__movies-list">
             <article className="small-movie-card catalog__movies-card">
               <div className="small-movie-card__image">
-                <img src="img/fantastic-beasts-the-crimes-of-grindelwald.jpg" alt="Fantastic Beasts: The Crimes of Grindelwald" width="280" height="175" />
+                <img src="/img/fantastic-beasts-the-crimes-of-grindelwald.jpg" alt="Fantastic Beasts: The Crimes of Grindelwald" width="280" height="175" />
               </div>
               <h3 className="small-movie-card__title">
                 <a className="small-movie-card__link" href="movie-page.html">Fantastic Beasts: The Crimes of Grindelwald</a>
@@ -98,7 +98,7 @@ const Film = () => {
             </article>
             <article className="small-movie-card catalog__movies-card">
               <div className="small-movie-card__image">
-                <img src="img/bohemian-rhapsody.jpg" alt="Bohemian Rhapsody" width="280" height="175" />
+                <img src="/img/bohemian-rhapsody.jpg" alt="Bohemian Rhapsody" width="280" height="175" />
               </div>
               <h3 className="small-movie-card__title">
                 <a className="small-movie-card__link" href="movie-page.html">Bohemian Rhapsody</a>
@@ -106,7 +106,7 @@ const Film = () => {
             </article>
             <article className="small-movie-card catalog__movies-card">
               <div className="small-movie-card__image">
-                <img src="img/macbeth.jpg" alt="Macbeth" width="280" height="175" />
+                <img src="/img/macbeth.jpg" alt="Macbeth" width="280" height="175" />
               </div>
               <h3 className="small-movie-card__title">
                 <a className="small-movie-card__link" href="movie-page.html">Macbeth</a>
@@ -114,7 +114,7 @@ const Film = () => {
             </article>
             <article className="small-movie-card catalog__movies-card">
               <div className="small-movie-card__image">
-                <img src="img/aviator.jpg" alt="Aviator" width="280" height="175" />
+                <img src="/img/aviator.jpg" alt="Aviator" width="280" height="175" />
               </div>
               <h3 className="small-movie-card__title">
                 <a className="small-movie-card__link" href="movie-page.html">Aviator</a>
